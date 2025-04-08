@@ -24,10 +24,10 @@ Este é um aplicativo mobile desenvolvido em Flutter que exibe uma Pokédex com 
 git clone https://github.com/alyson-monteiro/Pokedex
 cd pokedex-flutter
 
-**Instale as dependências**
+**Instale as dependências:**
 flutter pub get
 
-**Execute o projeto**
+**Execute o projeto:**
 flutter run
 
 ## ✨ Capturas de Tela
