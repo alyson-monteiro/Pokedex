@@ -16,16 +16,12 @@ Este é um aplicativo mobile desenvolvido em Flutter que exibe uma Pokédex com 
   - Firebase Authentication
   - Firebase Core
 
-## 📦 Estrutura do Projeto
-
-lib/ ├── firebase_options.dart # Configurações do Firebase ├── main.dart # Arquivo principal do app └── pages/ └── login_page.dart # Tela de login
-
 
 ## 🧠 Como executar
 
 **Clone este repositório:**
 
-git clone https://github.com/seu-usuario/pokedex-flutter.git
+git clone https://github.com/alyson-monteiro/Pokedex
 cd pokedex-flutter
 **Instale as dependências**
 flutter pub get
